@@ -1,7 +1,5 @@
 /*
-Problem Name:
-Two Sum
-
+Problem Name:Two Sum
 Problem Statement:
 Given an array of integers and a target value, find two indices
 whose corresponding values add up to the target.
